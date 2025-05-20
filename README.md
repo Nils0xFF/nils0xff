@@ -6,10 +6,9 @@
 
 ## 🚀 About Me
 I'm a passionate developer specialized in creating responsive, scalable web applications with a focus on clean architecture and modern user experiences. My expertise lies in:
-- Building robust Angular frontends
+- Building robust reactive Angular frontends
 - Developing Node.js backends
 - Creating IoT-driven applications
-- Implementing responsive design patterns
 
 ## 🛠️ Tech Stack
 
@@ -29,11 +28,9 @@ I'm a passionate developer specialized in creating responsive, scalable web appl
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/> <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white" alt="Jasmine"/> <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/> <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook"/>
 
 ## 🎯 Current Focus
-- 🏗️ Building scalable microservices architectures
-- 🔄 Implementing CI/CD pipelines
 - 🎨 Crafting intuitive user interfaces
 - 📱 Developing progressive web apps
-- 🔐 Implementing secure authentication systems
+- 🧑‍🎓 Expaning my knwoledge
 
 ## 🤝 Connect With Me
 
