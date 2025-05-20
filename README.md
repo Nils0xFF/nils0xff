@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Nils Geschwinde
-
 🎓 **B.Sc. Computer Science & Media**  
 💼 **Full Stack Developer** @ Inside M2M GmbH  
 📍 **Hanover, Germany**
@@ -30,24 +29,14 @@ I'm a passionate developer specialized in creating responsive, scalable web appl
 ## 🎯 Current Focus
 - 🎨 Crafting intuitive user interfaces
 - 📱 Developing progressive web apps
-- 🧑‍🎓 Expaning my knwoledge
+- 🧑‍🎓 Expanding my knowledge
 
 ## 🤝 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/nils-geschwinde-77b7532a2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.xing.com/profile/Nils_Geschwinde">
-    <img src="https://img.shields.io/badge/Xing-006567?style=for-the-badge&logo=xing&logoColor=white" alt="Xing"/>
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nils-geschwinde-77b7532a2/)
+[![XING](https://img.shields.io/badge/Xing-006567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Nils_Geschwinde)
 
 ## 💭 Philosophy
 > "Clean code always looks like it was written by someone who cares." - Robert C. Martin
 
 ---
-
-<div align="center">
-  <i>Thanks for visiting my profile! Feel free to connect with me.</i>
-</div>
+*Thanks for visiting my profile! Feel free to connect with me.*
