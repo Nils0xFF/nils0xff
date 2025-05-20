@@ -1,11 +1,8 @@
-<div align="center">
-  <h1>👋 Hi, I'm Nils Geschwinde</h1>
-  <p>
-    🎓 <strong>Media Informatics Graduate</strong><br>
-    💼 <strong>Application Developer</strong> @ Inside M2M GmbH<br>
-    📍 Based in <strong>Hannover, Germany</strong>
-  </p>
-</div>
+# 👋 Hi, I'm Nils Geschwinde
+
+🎓 **B.Sc. Computer Science & Media**  
+💼 **Full Stack Developer** @ Inside M2M GmbH  
+📍 **Hanover, Germany**
 
 ## 🚀 About Me
 I'm a passionate developer specialized in creating responsive, scalable web applications with a focus on clean architecture and modern user experiences. My expertise lies in:
