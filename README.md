@@ -1,5 +1,3 @@
-Here’s a shorter, cooler profile README you can paste into Nils0xFF/Nils0xFF/README.md.
-
 # Nils Geschwinde
 Full‑stack developer crafting TypeScript apps for web and desktop. Angular/React on the front, Node/Nest on the back, Electron when it belongs on the desktop.
 
