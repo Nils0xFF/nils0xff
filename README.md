@@ -29,5 +29,3 @@ Highlights
 Connect
 - LinkedIn: https://www.linkedin.com/in/nils-geschwinde-77b7532a2/
 - Xing: https://www.xing.com/profile/Nils_Geschwinde
-
-If you want it even tighter, remove the “What I ship” section or keep just three highlight links.
