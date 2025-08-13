@@ -1,42 +1,33 @@
-# 👋 Hi, I'm Nils Geschwinde
-🎓 **B.Sc. Computer Science & Media**  
-💼 **Full Stack Developer** @ Inside M2M GmbH  
-📍 **Hanover, Germany**
+Here’s a shorter, cooler profile README you can paste into Nils0xFF/Nils0xFF/README.md.
 
-## 🚀 About Me
-I'm a passionate developer specialized in creating responsive, scalable web applications with a focus on clean architecture and modern user experiences. My expertise lies in:
-- Building robust reactive Angular frontends
-- Developing Node.js backends
-- Creating IoT-driven applications
+# Nils Geschwinde
+Full‑stack developer crafting TypeScript apps for web and desktop. Angular/React on the front, Node/Nest on the back, Electron when it belongs on the desktop.
 
-## 🛠️ Tech Stack
+What I ship
+- Clean, accessible UIs with a strong DX
+- Type‑safe APIs and thoughtful architecture
+- Small touches that make products feel fast
 
-### Frontend
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS"/> <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=reactiveX&logoColor=white" alt="NgRx"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+Stack I use
+- Frontend: Angular, React, TypeScript, RxJS, Tailwind
+- Backend: Node.js, Express, NestJS
+- Desktop: Electron
+- Data: MongoDB, MySQL, OpenSearch
+- Dev: Docker, Git/GitHub Actions
+- Testing: Jest, Cypress, Storybook
 
-### Backend
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/> <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+Highlights
+- denkr-app — Modern TypeScript web app
+  https://github.com/Nils0xFF/denkr-app
+- spotify-widget — Embeddable Spotify widget
+  https://github.com/Nils0xFF/spotify-widget
+- tspokedex — CLI Pokémon game using PokeAPI (TypeScript)
+  https://github.com/Nils0xFF/tspokedex
+- chrome-tab-modifier — Fork adding a feature; PR upstream pending
+  https://github.com/Nils0xFF/chrome-tab-modifier
 
-### Data Storage
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" alt="OpenSearch"/>
+Connect
+- LinkedIn: https://www.linkedin.com/in/nils-geschwinde-77b7532a2/
+- Xing: https://www.xing.com/profile/Nils_Geschwinde
 
-### Tools & DevOps
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
-
-### Testing & Documentation
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/> <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white" alt="Jasmine"/> <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/> <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook"/>
-
-## 🎯 Current Focus
-- 🎨 Crafting intuitive user interfaces
-- 📱 Developing progressive web apps
-- 🧑‍🎓 Expanding my knowledge
-
-## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nils-geschwinde-77b7532a2/)
-[![XING](https://img.shields.io/badge/Xing-006567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Nils_Geschwinde)
-
-## 💭 Philosophy
-> "Clean code always looks like it was written by someone who cares." - Robert C. Martin
-
----
-*Thanks for visiting my profile! Feel free to connect with me.*
+If you want it even tighter, remove the “What I ship” section or keep just three highlight links.
