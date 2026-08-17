@@ -9,5 +9,5 @@ Tech I use
 - DevOps/Testing: Docker, GitHub Actions, Jest, Cypress, Storybook
 
 Connect
-- LinkedIn: https://www.linkedin.com/in/nils-geschwinde-77b7532a2/
+- LinkedIn: [Linked In](https://www.linkedin.com/in/nilsgeschwinde/)
 - Xing: https://www.xing.com/profile/Nils_Geschwinde
